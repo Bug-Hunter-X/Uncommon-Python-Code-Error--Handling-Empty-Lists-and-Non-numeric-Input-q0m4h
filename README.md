@@ -1,0 +1,1 @@
+This repository demonstrates a common Python coding error and its solution. The original code contains a flaw in handling empty lists and non-numeric input. The solution enhances error handling and input validation.
